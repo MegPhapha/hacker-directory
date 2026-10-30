@@ -1,10 +1,10 @@
 {
   "name": "Margaret Fafa Amanfu",
-  "role": "What you do — e.g. CS Student, Frontend Dev, Robotics Nerd",
+  "role": "Software Engineering Student",
   "university": "Univerity of Turin",
   "github": "MegPhapha",
-  "bio": "One or two sentences about what you build, what you're learning, or what you're into.",
-  "tags": ["Python", "JavaScript", "Your Tag Here"],
+  "bio": "Software engineering student at the University of Turin who loves turning ideas into working projects — from hackathon prototypes to things built just for fun.",
+  "tags": ["Python", "JavaScript", "Web Dev"],
   "links": {
     "website": "https://github.com/MegPhapha"
   }
